@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,960">
+  <displayList>
+    <image id="n2_u3qf" name="n2" src="u3qf6" fileName="img/Bg.png" xy="5,143">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n3_u3qf" name="BtnClose" src="u3qf9" fileName="BtnIcon.xml" xy="84,166" size="48,49">
+      <relation target="n2_u3qf" sidePair="left-left,top-top"/>
+      <Button icon="ui://pax4wxkou3qf4"/>
+    </component>
+    <text id="n4_u3qf" name="LabelTitle" xy="223,461" size="193,37" fontSize="28" align="center" vAlign="middle" bold="true" text="Hello World！">
+      <relation target="n2_u3qf" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n5_u3qf" name="BtnShow" src="u3qf9" fileName="BtnIcon.xml" xy="203,640" size="233,73">
+      <relation target="n2_u3qf" sidePair="center-center,bottom-bottom"/>
+      <Button icon="ui://pax4wxkou3qf2"/>
+    </component>
+  </displayList>
+</component>

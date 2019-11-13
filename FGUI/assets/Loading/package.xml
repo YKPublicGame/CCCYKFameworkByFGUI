@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="pax4wxko">
+  <resources>
+    <image id="u3qf0" name="x.png" path="/img/"/>
+    <image id="u3qf1" name="tongyongdi.png" path="/img/"/>
+    <image id="u3qf2" name="slice01_01.png" path="/img/"/>
+    <image id="u3qf3" name="LoadingRing.png" path="/img/"/>
+    <image id="u3qf4" name="fanhuo.png" path="/img/"/>
+    <image id="u3qf5" name="di.png" path="/img/" scale="9grid" scale9grid="51,9,12,18"/>
+    <image id="u3qf6" name="Bg.png" path="/img/" scale="9grid" scale9grid="292,58,32,27"/>
+    <component id="u3qf7" name="Loading.xml" path="/" exported="true"/>
+    <component id="u3qf8" name="TestWind.xml" path="/" exported="true"/>
+    <component id="u3qf9" name="BtnIcon.xml" path="/"/>
+  </resources>
+  <publish name="Loading" path="F:\GIT\CCCYKFamework\assets\resources\UI" packageCount="2"/>
+</packageDescription>

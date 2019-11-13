@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="115,34" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n4_u3qf" name="icon" xy="0,0" pivot="0.5,0.5" size="115,34" url="ui://pax4wxkou3qf5" align="center" vAlign="middle" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.90"/>
+  <relation target="n4_u3qf" sidePair="width-width,height-height"/>
+</component>
